@@ -202,14 +202,4 @@ Similar pipelines are used in:
 * Create a **Streamlit dashboard**
 * Deploy using **Docker**
 
----
 
-## 11. Resume Description (Ready to Use)
-
-> Built an end-to-end machine learning pipeline that collects real-time stock market data via API, performs time-series feature engineering, retrains a Random Forest regression model daily, and predicts next-day stock prices automatically.
-
----
-
-## 12. Disclaimer
-
-This project is for **educational purposes only** and should not be used for real financial trading decisions.
